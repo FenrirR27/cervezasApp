@@ -1,5 +1,5 @@
 HOST="aws.connect.psdb.cloud"
-USERNAME="taud62q6unb5w7urf6u8"
-PASSWORD="pscale_pw_il12DewRleVnkjnIZKUruibiAbhmNuVRIsrhW2kqTcL"
+USERNAME="tqt080gg9th14iz36wag"
+PASSWORD="pscale_pw_9UNCGima5YuC2qAtvyKjfH0R717UclP01qPZ20Lmwfs"
 DATABASE="ebttest"
-SECRET_KEY="pscale_pw_il12DewRleVnkjnIZKUruibiAbhmNuVRIsrhW2kqTcL"
+SECRET_KEY="212312qwdqdqwdqwdqwfdqwf"
