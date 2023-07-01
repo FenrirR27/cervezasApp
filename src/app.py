@@ -67,8 +67,8 @@ def newBeer():
 
     if name and style and description and email:
         cur = mysql.connection.cursor()
-        sql = "INSERT INTO beers (email, name, style, description, date_added) VALUES (%s, %s, %s, %s, %s)"
-        data = (email, name, style, description, dateAdded)
+        sql = "INSERT INTO beers ( name, style, description, date_added) VALUES ( %s, %s, %s, %s)"
+        data = ( name, style, description, dateAdded)
         cur.execute(sql, data)
         cur.close()
         mysql.connection.commit()
